@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Intro": ["getting_started"],
+    "Project Overviews": ["project_cmpd_gift", "project_digi_bridge"],
+    "Learning Resources": ["learn_javascript", "learn_react", "learn_node"]
+  },
+  "docs-other": {
+
+  }
+}
