@@ -10,9 +10,9 @@ sidebar_label:  DIGI-BRIDGE
 
 *WIP*
 
-[](https://github.com/CodeForCharlotte/cmpd-holiday-gift)
-
 ## What to learn
+
+If you're interested in contributing to the DIGI-BRIDGE Project, here's some of the technologies that you will want to become familiar with.
 
 *WIP*
 

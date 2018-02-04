@@ -8,9 +8,9 @@ sidebar_label: CMPD Explorers
 
 CMPD has been providing Christmas presents to 800 underserved kids each Christmas since 1974.  It is a great program with amazing police officers running it, except one thing… they do the whole thing on paper.  That’s where we come in.  We are bringing them to the digital age with a database, reporting, automation and more.
 
-[](https://github.com/CodeForCharlotte/cmpd-holiday-gift)
-
 ## What to learn
+
+If you're interested in contributing to the Explorers Christmas Project, here's some of the technologies that you will want to become familiar with.
 
 [JavaScript](/docs/learn_javascript.html)
 

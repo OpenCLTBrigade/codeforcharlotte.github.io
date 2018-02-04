@@ -4,9 +4,11 @@ title: JavaScript
 sidebar_label: JavaScript
 ---
 
-You can get a great overview of what JavaScript is [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+You can get a great overview of what JavaScript is [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 ## Interactive Learning
+
+Here is a curated list of workshops that will help you ramp up quickly on JavaScript.
 
 [javascripting](https://github.com/workshopper/javascripting) - Learn the basics of JavaScript. No previous programming experience required. 
 

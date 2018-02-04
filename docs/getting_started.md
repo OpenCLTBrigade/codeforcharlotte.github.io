@@ -8,4 +8,4 @@ After you have gone through CodeForCharlotte's orientation you can explore the [
 
 ## Contribute to the Guide
 
-This site is [open source]() and welcomes contributers!
+This site is [open source](https://github.com/CodeForCharlotte/codeforcharlotte.github.io) and welcomes contributers!
