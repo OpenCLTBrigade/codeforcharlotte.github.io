@@ -11,9 +11,9 @@ const users = [
 const siteConfig = {
   title: 'CodeForCharlotte' /* title for your website */,
   tagline: 'Become an open source contributor in no time!!!',
-  url: 'https://CodeForCharlotte.github.io/' /* your website url */,
+  url: 'https://codeforcharlotte.github.io/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
-  projectName: 'CodeForCharlotte.github.io',
+  projectName: 'codeforcharlotte.github.io',
   headerLinks: [
     {doc: 'getting_started', label: 'Docs'},
     {page: 'help', label: 'Help'},
@@ -32,14 +32,14 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' CodeForCharlotte',
-  organizationName: 'CodeForCharlotte', // or set an env variable ORGANIZATION_NAME
+  organizationName: 'codeforcharlotte', // or set an env variable ORGANIZATION_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/CodeForCharlotte/CodeForCharlotte.github.io',
+  repoUrl: 'https://github.com/CodeForCharlotte/codeforcharlotte.github.io',
 };
 
 module.exports = siteConfig;
