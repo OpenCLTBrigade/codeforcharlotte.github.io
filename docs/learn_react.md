@@ -17,6 +17,6 @@ You can get a great overview of what React is [here](https://reactjs.org/)
 
 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 
-[Clean Code vs. Dirty Code](https://github.com/i0natan/nodebestpractices)
+[Clean Code vs. Dirty Code](http://americanexpress.io/clean-code-dirty-code/)
 
 [8 Tips to Build Awesome React.js Apps in 2018](https://blog.risingstack.com/8-tips-to-build-better-react-apps-in-2018/)
