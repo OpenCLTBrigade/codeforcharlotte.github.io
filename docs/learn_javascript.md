@@ -20,4 +20,6 @@ Here is a curated list of workshops that will help you ramp up quickly on JavaSc
 
 ## Best Practices
 
+[project-guidelines](https://github.com/wearehive/project-guidelines)
+
 [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
