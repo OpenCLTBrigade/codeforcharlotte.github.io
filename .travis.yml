@@ -1,9 +1,11 @@
 language: node_js
+node_js:
+  "lts/*"
 before_script:
   - yarn global add docusaurus-init
 before_install:
   - cd website
-script: publish-gh-pages
+script: npm run publish-gh-pages
 cache:
   yarn: true
   directories:
