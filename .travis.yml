@@ -5,16 +5,8 @@ before_script:
   - yarn global add docusaurus-init
 before_install:
   - cd website
-script: npm run publish-gh-pages
+script: yarn publish-gh-pages
 cache:
   yarn: true
   directories:
     - node_modules
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: true
-  target-branch: master
-  on:
-    branch: source
