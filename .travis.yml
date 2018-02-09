@@ -5,6 +5,8 @@ before_script:
   - yarn global add docusaurus-init
 before_install:
   - cd website
+  - git config --global user.name "$GIT_USER_NAME"
+  - git config --global user.name "$GIT_USER_EMAIL"
 script: yarn publish-gh-pages
 cache:
   yarn: true
