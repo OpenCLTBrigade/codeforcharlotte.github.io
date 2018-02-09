@@ -1,3 +1,13 @@
+language: node_js
+before_script:
+  - yarn global add docusaurus-init
+before_install:
+  - cd website
+script: publish-gh-pages
+cache:
+  yarn: true
+  directories:
+    - node_modules
 deploy:
   provider: pages
   skip-cleanup: true
